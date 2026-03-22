@@ -536,6 +536,7 @@
 * ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)** / [GitHub](https://github.com/jakearchibald/wordle-analyzer/)
 * ⭐ **[Woogles](https://woogles.io/)**, [MoreWords](https://www.morewords.com/), [PlayScrabble](https://playscrabble.com/) or [WordHub](https://wordhub.com/) - Scrabble
 * [TheWordSearch](https://thewordsearch.com/) - Word Search Puzzles
+* [WordSearchPuzzle.net](https://wordsearchpuzzle.net/) - Free word search puzzles / Daily / Categories / Maker / Printable
 * [⁠Puzzmo](https://www.puzzmo.com/) - Daily Word + Puzzle Games
 * [⁠Wordsmyth](https://www.playwordsmyth.com/) - Daily Word Transformation Game
 * [Make a Word Search](http://www.makeawordsearch.net/) or [Word Search Labs](https://wordsearchlabs.com/) - Word Search Creators
